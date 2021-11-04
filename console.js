@@ -1,0 +1,1 @@
+console.log("Pozdrav iz aplikacije od Stjepan Kekelić 000000000000")
